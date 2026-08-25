@@ -1,34 +1,3 @@
-ProfileMe.dev
-
-
-Introduction
-Skills
-Socials
-Badges
-Support
-Go home
-© 2026 Dan Cranney
-
-Follow me
-|
-Buy Me a Coffee
-Support
-Make it easy for people using your products to support you or give donations.
-
-
-Previous
-buymeacoffee
-Buy Me a Coffee:
-yourname
-kofi
-Ko-fi:
-yourname
-
-Previous
-Reorder Sections
-Preview
-Markdown
-Copy
 Hi 👋 My name is Rob
 ====================
 
